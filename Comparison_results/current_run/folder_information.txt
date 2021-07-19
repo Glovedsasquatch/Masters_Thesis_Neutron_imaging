@@ -1,0 +1,8 @@
+The folder receives five output files:
+1) Simulated high resolution output
+2) Smoothed high resolution output: image generated in integration mode of the Gaussian events on high resolution
+3) Super-resolution image: using biased numerical algorithm
+4) Super-resolution image with Fixed Patter Noise adjusted: using unbiased numerical algorithm
+5) Detector Image
+
+The files should be removed after every subsequent run inorder to avoid being overwritten. Usually, it can be copied to the Comparison_results folder.
