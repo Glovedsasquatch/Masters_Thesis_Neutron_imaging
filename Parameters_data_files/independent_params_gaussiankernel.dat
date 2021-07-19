@@ -1,0 +1,12 @@
+#File containing the range of the parameters values for Gaussian Kernel as the independent parameter for analysis
+
+#Start value for the Gaussian Kernel Size
+21
+
+#End Value for the Gaussian Kernel Size
+201
+
+#Step-size for every subsequent Gaussian Kernel size
+20
+
+

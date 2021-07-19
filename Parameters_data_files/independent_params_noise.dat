@@ -1,0 +1,11 @@
+#File containing the range of noise upper bound values as the independent parameter for parameter analysis
+
+#Start value of Noise upper bound percentage (CAUTION: THIS VALUE MUST BE STRICTLY GREATER THAN 0)
+5
+
+#End value of Noise upper bound percentage (CAUTION: THIS VALUE MUST BE STRICTLY LESS THAN 100)
+40
+
+#Step-size for subsequent noise upper bound values
+5
+

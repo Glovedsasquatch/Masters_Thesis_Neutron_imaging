@@ -1,0 +1,48 @@
+#!!!File must contain only integer values for correct execution
+
+#Lower Bound Pixel Percent
+20
+
+#Upper Bound Pixel Percent
+80
+
+#Gaussian Blur Kernel size in x-direction
+201
+
+#Gaussian Blur Kernel size in y-direction
+201
+
+#Gaussian Blur Sigma value
+0
+
+#Maximum Sampler Count
+30000000
+
+#Resolution Modulation Factor
+10
+
+#Noise Present
+1
+
+#Lower Bound Noise Percent
+0
+
+#Upper Bound Noise Percent
+200
+
+#Number of Output Image frames
+5
+
+#Current version has the following dependent and independent parameters available for analysis
+#List of dependent parameters: 
+#1) Average deviations in Center of Mass methodology: dxdy_centerofmass_avg
+
+#List of independent parameters:
+#1) Gaussian Kernel size: gb_kernel_x or gb_kernel_y
+#2) Noise upper limit: noise_upper_limit
+
+#Index for dependent paramter for analysis (Based on the list above)
+1
+
+#Index for independent paramter for analysis (Based on the list above)
+1
